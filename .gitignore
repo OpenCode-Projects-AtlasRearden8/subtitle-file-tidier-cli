@@ -1,6 +1,10 @@
-__pycache__/
-.venv/
-*.pyc
-build/
 *.egg-info/
+*.pyc
+.env
+.env.*
+.venv/
+__pycache__/
+build/
 dist/
+dist/*.tmp
+node_modules/
